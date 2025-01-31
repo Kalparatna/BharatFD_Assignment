@@ -13,7 +13,7 @@ It supports **automatic translations** and **caching** to optimize API responses
 ✅ **Fast API responses** with **Redis caching**.  
 ✅ REST API for CRUD operations.  
 ✅ Admin panel for FAQ management.  
-✅ **Docker support** (Bonus).  
+✅ **Docker support** .  
 
 ---
 
